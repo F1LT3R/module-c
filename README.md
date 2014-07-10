@@ -1,4 +1,2 @@
 Module C
- - has sub-modules
- -- Module A
- -- Module B
+ - has sub-modules: [ Module A, Module B ]
